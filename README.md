@@ -2,7 +2,7 @@
 
 Torrix is a conceptual/experimental package manager, or a system distibution with it.
 
-Torrix uses a decentralized distribution model, which does not use a centralizezd server unlike other operating systems.
+Torrix uses a decentralized distribution model, which does not use a centralized server unlike other operating systems.
 
 For example, if you try `torrix install some_package`, the Torrix system tries to find a package from relays that you registered.
 
