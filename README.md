@@ -1,6 +1,6 @@
 # Torrix
 
-Torrix is a conceptional/experimental package manager, or a system distibution with it.
+Torrix is a conceptual/experimental package manager, or a system distibution with it.
 
 Torrix uses a decentralized distribution model, which does not use a centralizezd server unlike other operating systems.
 
