@@ -86,4 +86,4 @@ With this Torrix distribution architecture, you will be able to have a completel
 
 Also, there is an interesting Desktop Environment idea, which is based on the Torrix network.
 
-To see more about it, consider seeing: [Torrix Canvas](https://github.com/torrix-sys/torrix-canvas) desktop.
+To see more about it, consider seeing [Torrix Canvas](https://github.com/torrix-sys/torrix-canvas) desktop.
