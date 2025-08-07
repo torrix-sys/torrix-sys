@@ -82,4 +82,4 @@ Whitelisted Authors:
 
 Then it will try 'maximum seeding' for whitelisted authors.
 
-With this distribution architecture, you will be able to have a completely decentralized software development model.
+With this Torrix distribution architecture, you will be able to have a completely decentralized software development model.
