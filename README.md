@@ -83,3 +83,7 @@ Whitelisted Authors:
 Then it will try 'maximum seeding' for whitelisted authors.
 
 With this Torrix distribution architecture, you will be able to have a completely decentralized software development model.
+
+Also, there is an interesting Desktop Environment idea, which is based on the Torrix network.
+
+To see more about it, consider seeing: [Torrix Canvas](https://github.com/torrix-sys/torrix-canvas) desktop.
